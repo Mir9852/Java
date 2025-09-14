@@ -20,5 +20,9 @@ public class Variable {
         var lastNameVariable = "Amir";
 
         System.out.println(firstNameVariable + " " + lastNameVariable);
+
+        final String ApplicationName = "Belajar Java";
+
+        System.out.println(ApplicationName);
     }
 }
