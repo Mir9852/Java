@@ -1,4 +1,4 @@
-public class Variable {
+public class Variable {    
     public static void main(String[] args) {
         
         String nama;
@@ -15,5 +15,10 @@ public class Variable {
         System.out.println(nama);
 
         System.out.println("Hello " + nama + ", umur saya " + umur + " tahun, saya tinggal di " + alamat);
+
+        var firstNameVariable = "Muhamad";
+        var lastNameVariable = "Amir";
+
+        System.out.println(firstNameVariable + " " + lastNameVariable);
     }
 }
