@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "ForEach",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Continue",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
