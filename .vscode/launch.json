@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "Block",
+            "request": "launch",
+            "mainClass": "Block",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "IfStatement",
+            "request": "launch",
+            "mainClass": "IfStatement",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "KonversiNumber",
+            "request": "launch",
+            "mainClass": "KonversiNumber",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "OperasiBoolean",
+            "request": "launch",
+            "mainClass": "OperasiBoolean",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "OperasiMatimatika",
+            "request": "launch",
+            "mainClass": "OperasiMatimatika",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "OperatorPerbandingan",
+            "request": "launch",
+            "mainClass": "OperatorPerbandingan",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "SwitchStatement",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataBoolean",
+            "request": "launch",
+            "mainClass": "TipeDataBoolean",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataBukanPrimitif",
+            "request": "launch",
+            "mainClass": "TipeDataBukanPrimitif",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataChar",
+            "request": "launch",
+            "mainClass": "TipeDataChar",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataNumber",
+            "request": "launch",
+            "mainClass": "TipeDataNumber",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataString",
+            "request": "launch",
+            "mainClass": "TipeDataString",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Java-learning_d0f684ba"
+        }
+    ]
+}
