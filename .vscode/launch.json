@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodReturnValue",
+            "request": "launch",
+            "mainClass": "MethodReturnValue",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
             "name": "Method",
             "request": "launch",
             "mainClass": "Method",
