@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
+            "name": "MethodVariableArgument",
+            "request": "launch",
+            "mainClass": "MethodVariableArgument",
+            "projectName": "Java-learning_d0f684ba"
+        },
+        {
+            "type": "java",
             "name": "MethodReturnValue",
             "request": "launch",
             "mainClass": "MethodReturnValue",
